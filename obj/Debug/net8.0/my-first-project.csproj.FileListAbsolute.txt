@@ -1,0 +1,16 @@
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\bin\Debug\net8.0\my-first-project.exe
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\bin\Debug\net8.0\my-first-project.deps.json
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\bin\Debug\net8.0\my-first-project.runtimeconfig.json
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\bin\Debug\net8.0\my-first-project.dll
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\bin\Debug\net8.0\my-first-project.pdb
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.csproj.AssemblyReference.cache
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.AssemblyInfoInputs.cache
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.AssemblyInfo.cs
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.csproj.CoreCompileInputs.cache
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.sourcelink.json
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.dll
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\refint\my-first-project.dll
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.pdb
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\my-first-project.genruntimeconfig.cache
+C:\Users\Jadav srikar\OneDrive\Documents\GitHub\my-first-project\obj\Debug\net8.0\ref\my-first-project.dll
